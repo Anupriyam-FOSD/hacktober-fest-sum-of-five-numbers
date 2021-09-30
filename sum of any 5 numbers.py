@@ -1,4 +1,6 @@
-print("Welcome !!!")
+print("Welcome 😃")
+print("Press enter to start")
+input("")
 
 Num1 = float(input("Enter the first number :"))
 Num2 = float(input("Enter the second number :"))
